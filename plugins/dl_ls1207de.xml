@@ -1,0 +1,3 @@
+<library path="lib/libdl_ls1207de_nodelet">
+  	<class name="dl_ls_udp/dlLs1207DENodelet" type="dl_ls_udp::dlLs1207DENodelet" base_class_type="nodelet::Nodelet"/>
+</library>
